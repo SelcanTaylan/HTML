@@ -20,3 +20,4 @@
   <li>The <code>&lt;h1&gt;</code> element defines a large heading.</li>
   <li>The <code>&lt;p&gt;</code> element defines a paragraph.</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
