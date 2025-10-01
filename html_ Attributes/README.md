@@ -10,3 +10,4 @@
   <li>The <code>lang</code> attribute of the <code>&lt;html&gt;</code> tag declares the language of the Web page.</li>
   <li>The <code>title</code> attribute defines some extra information about an element.</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
