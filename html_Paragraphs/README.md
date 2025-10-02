@@ -13,7 +13,7 @@
   <li>The <code>&lt;br&gt;</code> tag is an empty tag, which means that it has no end tag.</li>
 </ul>
 
-<h2>Solution - The HTML &lt;pre&gt; Element</h2>
+<h2>HTML &lt;pre&gt; Element</h2>
 <ul>
   <li>The HTML <code>&lt;pre&gt;</code> element defines preformatted text.</li>
   <li>The text inside a <code>&lt;pre&gt;</code> element is displayed in a fixed-width font (usually Courier).</li>
